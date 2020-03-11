@@ -1,0 +1,9 @@
+{
+  "name": "dymAdmin",
+  "version": "1.0.0",
+  "description": "dynamic admin panel to help people add dynamic modules , made with es6 - parcel ",
+  "main": "index.js",
+  "repository": "https://github.com/larbibaraka/dymAdmin.git",
+  "author": "Baraka Larbi <laridev@gmail.com>",
+  "license": "MIT"
+}
